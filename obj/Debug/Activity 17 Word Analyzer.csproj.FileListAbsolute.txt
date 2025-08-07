@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Activity 17 Word Analyzer\bin\Debug\Activity 17 Word Analyzer.exe.config
+C:\Users\HP\source\repos\Activity 17 Word Analyzer\bin\Debug\Activity 17 Word Analyzer.exe
+C:\Users\HP\source\repos\Activity 17 Word Analyzer\bin\Debug\Activity 17 Word Analyzer.pdb
+C:\Users\HP\source\repos\Activity 17 Word Analyzer\obj\Debug\Activity 17 Word Analyzer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity 17 Word Analyzer\obj\Debug\Activity 17 Word Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity 17 Word Analyzer\obj\Debug\Activity 17 Word Analyzer.exe
+C:\Users\HP\source\repos\Activity 17 Word Analyzer\obj\Debug\Activity 17 Word Analyzer.pdb
